@@ -3,4 +3,4 @@
 
 ## Проекты
 
-* [Модуль 14. Проект модуля (HW-03) чат-бот-«барахольщик»](https://github.com/igord21/ML-engineer/tree/master/module_14)
+* [SmartResponse: бот предоставляет ответ зависящий от контекста запроса](https://github.com/igord21/ML-engineer/tree/master/module_14)
